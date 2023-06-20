@@ -1,3 +1,4 @@
 *.o
+*.so
 executable
 .DS_Store

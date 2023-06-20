@@ -1,0 +1,2 @@
+- `main.cpp` contains the test code for multithreading with C++.
+- `main_coroutine.cpp` contains the test code for calling Lua coroutine from C++.
